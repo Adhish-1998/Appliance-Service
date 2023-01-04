@@ -1,6 +1,7 @@
 # Appliance Service Provider
 
-    This is a home alliance service provider website project, developed using Nodejs's web framework Express. For Authentication and Authorization I am using JWT(JSON Web Token), passport, passport-jwt.
+    This is a home alliance service provider website project, developed using Nodejs's web framework Express.
+    For Authentication and Authorization I am using JWT(JSON Web Token), passport, passport-jwt.
 
 ### Entities:
 
